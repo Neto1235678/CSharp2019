@@ -1,0 +1,5 @@
+gabriel
+10
+salario
+5000
+5
